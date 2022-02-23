@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Waldeck's letter to the States-General giving and account of a great victory obtained over the French the 25th of this instant August, 1689. Licensed August 24. 1689.</title>
+            <title>Full and perfect relation of a great and signal victory gain'd by the English and Hollanders over the French.</title>
+            <author>Waldeck, Georg Friedrich, Graf von, 1620-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42627</idno>
+            <idno type="STC">Wing G531A</idno>
+            <idno type="STC">ESTC R215766</idno>
+            <idno type="EEBO-CITATION">99827539</idno>
+            <idno type="PROQUEST">99827539</idno>
+            <idno type="VID">31960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Waldeck's letter to the States-General giving and account of a great victory obtained over the French the 25th of this instant August, 1689. Licensed August 24. 1689.</title>
+                  <title>Full and perfect relation of a great and signal victory gain'd by the English and Hollanders over the French.</title>
+                  <author>Waldeck, Georg Friedrich, Graf von, 1620-1692.</author>
+                  <author>Sluyler, Fr.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Baldwin, in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also translated as: A full and perfect relation of a great and signal victory gain'd by the English and Hollanders over the French.</note>
+                  <note>Includes a letter dated 26 August and signed: Fr. Sluyler.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:31960:1"/>
+            <pb facs="tcp:31960:1" rendition="simple:additions"/>
+            <head>Prince WALDECK's LETTER TO THE States-General: Giving an Account of a great VICTORY obtained over the <hi>French</hi> the 25th of this Inſtant <hi>Auguſt,</hi> 1689.</head>
+            <argument>
+               <p>Licenſed <date>Auguſt 24. 1689.</date>
+               </p>
+            </argument>
+            <opener>
+               <salute>High and Mighty Lords,</salute>
+            </opener>
+            <p>THIS Morning, while a good part of your High and Migh<g ref="char:EOLhyphen"/>tineſſes Army were Foraging, came tidings, that the Ma<g ref="char:EOLhyphen"/>reſchal <hi>d'Humiers</hi> with his Army, which he had ſome days ſince ſtrengthened by an Addition of ſix Thouſand Men, were marching; immediately your Foragers were advertiſed of it by ſome Cannon Shot, as had been agreed: In the mean while the Enemies Avant Guard attacked the Village <hi>Forge,</hi> in which I had placed eight hundred Men to Cover the Foragers; which were Commanded by the <hi>Engliſh</hi> Colonel <hi>Hodges,</hi> Coll. <hi>Goes,</hi> and the Major of the <hi>Heſs</hi> Regiment. This Attack continued above two hours, but they defended themſelves ſo ſtoutly, until the Major <hi>d'Roe.</hi> who was ſent to give notice to the Lieutenant Generals <hi>Webenham, Marlborough,</hi> and <hi>Houlby,</hi> who were with the Foragers, to bring them back again, ſuccoured them with ſome Horſe: whereupon, while the whole <hi>French</hi> Army were coming down upon them, they retired Fighting till they came to a riſing by the ſmall City <hi>Wallour,</hi> in which I had placed Colonel <hi>Linctau</hi>'s Battalion of <hi>Lunenbergers;</hi> and afterwards ſtrengthened them with Colonel <hi>Hollis</hi>'s Battalion, while this ſaid City was furiouſly Attacked by many <hi>French</hi> Battalions and Cannon for above two hours. Lieutenant Ge<g ref="char:EOLhyphen"/>neral <hi>Aylua</hi> advanced with three Battalions towards the City, from which he detatched the Brigadier <hi>Jalmuſh;</hi> Lieutenant General <hi>Marl<g ref="char:EOLhyphen"/>borough</hi> followed with the Life-Guard, and two <hi>Engliſh</hi> Regiments, and in the mean time Major General <hi>Strangenburgh</hi> advanced on the other ſide of the City with ſome detached Foot, which made the <hi>French</hi> retire confuſedly, leaving behind them their Cannon, Bullets, and Gun-Powder, with a great many dead and wounded, whereof we cannot yet know the exact number, among which are three Captains of the Guards, Monſieur <hi>d'Artignan,</hi> Commander of the Guards, and many other taken Priſoners: in their retiring came two Drums deſiring a Ceſſation, to fetch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff their wounded, and bury their dead, ſaying that ſix Battalions <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Guards, who had been in the Attack, were moſt of them de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>royed. On our ſide is no conſiderable Loſs, beſides Lieutenant Co<g ref="char:EOLhyphen"/>lonel
+<pb facs="tcp:31960:2"/> 
+               <hi>Grymes,</hi> of the <hi>Engliſh:</hi> and the Major of the <hi>Heſſes</hi> Dragoons, with one Captain Lieutenant, and one Captain, and ſome Foragers taken Priſoners, and in the City there are very few killed, or wound<g ref="char:EOLhyphen"/>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The <hi>Frenc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> did thereon withdraw into their Camp; and our Troops kept them Standing till it was Night; the Earl of <hi>Naſſaw,</hi> Field-Marſhal, and all other Officers, have behaved themſelves as well as one could wiſh, and all the Soldiers ſhewed great Courage and Joy, on the hopes of coming to a Battel, and there might have been great Succeſs expected, if the Situation of the Country had permitted pur<g ref="char:EOLhyphen"/>ſuing the Enemy. In particular, thoſe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Engliſh,</hi> who were em<g ref="char:EOLhyphen"/>ployed in this Rencounter, have behaved themſelves well. I congra<g ref="char:EOLhyphen"/>tulate your High and Mightineſſes Arms in this Rencounter, and the good Iſſue in making the Enemies retreat; wiſhing, it may pleaſe God to continue to give further Bleſſing to your High and Mightyneſſes Arms, and Government, I commit you to his Protection,</p>
+            <closer>
+               <dateline>In the Camp by <hi>Thil Caſtle,</hi> 
+                  <date>Auguſt 25, 1689, late in the Evening.</date>
+               </dateline>
+               <signed>G. Frederick Prince van Waldeck.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>YOU will by the annex'd ſee what paſs'd here Yeſterday; There are many of the <hi>French</hi> ſlain more than is known; and our men were ſo couragious, that if the Ground had not been ſo hilly it would have come to a pitch'd Battel; but as it is, the <hi>French</hi> have had a luſty Blow: We have been all night upon the Guard, and I am but juſt now come to my Quarters from my Regiment of Foot. The Prince ſlept all night in his Coach. Juſt now we hear Shooting again: I believe it is from Parties meeting each other; but it's likely the <hi>French</hi> will ſeek their Revenge to day. I am diſpatching the Courier, and hope our bleſſed Lord will give us farther Bleſſing and Happineſs.</p>
+               <closer>
+                  <dateline>In the Camp by <hi>Thil Caſtle,</hi> 
+                     <date>the 26th of <hi>Auguſt</hi> 89. early in the Morning.</date>
+                  </dateline>
+                  <signed>Fr. Sluyler.</signed>
+               </closer>
+               <postscript>
+                  <p>I believe there are above Two thouſand of the <hi>French</hi> kill'd and wounded.</p>
+               </postscript>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>FLanders</hi> Letters confirm theſe Contents, ſaying ſeventeen or eighteen hundred <hi>French</hi> are kill'd, among which many of Note; that ſeven or eight hundred were brought Priſoners to <hi>Charleroy:</hi> that ſix <hi>French</hi> Cannon were taken. Much of this Victory is attributed on all hands to the <hi>Engliſh</hi> Valor. Prince <hi>Waldeck</hi>'s ſending his Army to forage, was a deſign to draw the <hi>French</hi> out of their Camp; which had its effect.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin,</hi> in the <hi>Old-Bailey.</hi>
+            </p>
+            <pb facs="tcp:31960:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
